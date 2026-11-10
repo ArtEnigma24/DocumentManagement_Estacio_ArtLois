@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 0 15px;
+  color: #222;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background: #f0f0f0;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+#message.error { color: #b00020; }
+#message.success { color: #1b7a3a; }

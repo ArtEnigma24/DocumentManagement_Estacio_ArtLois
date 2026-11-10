@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Document Management</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Document Management</h1>
+
+  <!-- 1. Upload -->
+  <h2>Upload a document</h2>
+  <input type="file" id="fileInput">
+  <button id="uploadBtn">Upload</button>
+  <p id="message"></p>
+
+ 
+  <h2>Documents</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>File name</th>
+        <th>Type</th>
+        <th>Size</th>
+        <th>Uploaded</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody id="docRows"></tbody>
+  </table>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
