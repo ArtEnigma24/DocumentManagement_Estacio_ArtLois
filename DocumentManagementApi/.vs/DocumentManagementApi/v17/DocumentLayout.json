@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99E4F2FF-8543-47B8-B5B2-0F97266D3C7B}|DocumentManagementApi\\DocumentManagementApi.csproj|c:\\users\\art oliver estacio\\documents\\lois file\\document_management\\documentmanagementapi\\documentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E4F2FF-8543-47B8-B5B2-0F97266D3C7B}|DocumentManagementApi\\DocumentManagementApi.csproj|solutionrelative:documentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E4F2FF-8543-47B8-B5B2-0F97266D3C7B}|DocumentManagementApi\\DocumentManagementApi.csproj|c:\\users\\art oliver estacio\\documents\\lois file\\document_management\\documentmanagementapi\\documentmanagementapi\\controllers\\adddocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E4F2FF-8543-47B8-B5B2-0F97266D3C7B}|DocumentManagementApi\\DocumentManagementApi.csproj|solutionrelative:documentmanagementapi\\controllers\\adddocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3780F3EC-FDA7-4271-B90E-862B376E1719}|DocumentManagementlibrary\\DocumentManagementlibrary.csproj|c:\\users\\art oliver estacio\\documents\\lois file\\document_management\\documentmanagementapi\\documentmanagementlibrary\\services\\adddocumentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3780F3EC-FDA7-4271-B90E-862B376E1719}|DocumentManagementlibrary\\DocumentManagementlibrary.csproj|solutionrelative:documentmanagementlibrary\\services\\adddocumentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3780F3EC-FDA7-4271-B90E-862B376E1719}|DocumentManagementlibrary\\DocumentManagementlibrary.csproj|c:\\users\\art oliver estacio\\documents\\lois file\\document_management\\documentmanagementapi\\documentmanagementlibrary\\documentrepository\\adddocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3780F3EC-FDA7-4271-B90E-862B376E1719}|DocumentManagementlibrary\\DocumentManagementlibrary.csproj|solutionrelative:documentmanagementlibrary\\documentrepository\\adddocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3780F3EC-FDA7-4271-B90E-862B376E1719}|DocumentManagementlibrary\\DocumentManagementlibrary.csproj|c:\\users\\art oliver estacio\\documents\\lois file\\document_management\\documentmanagementapi\\documentmanagementlibrary\\requestmodel\\documentrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3780F3EC-FDA7-4271-B90E-862B376E1719}|DocumentManagementlibrary\\DocumentManagementlibrary.csproj|solutionrelative:documentmanagementlibrary\\requestmodel\\documentrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3780F3EC-FDA7-4271-B90E-862B376E1719}|DocumentManagementlibrary\\DocumentManagementlibrary.csproj|c:\\users\\art oliver estacio\\documents\\lois file\\document_management\\documentmanagementapi\\documentmanagementlibrary\\models\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3780F3EC-FDA7-4271-B90E-862B376E1719}|DocumentManagementlibrary\\DocumentManagementlibrary.csproj|solutionrelative:documentmanagementlibrary\\models\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3780F3EC-FDA7-4271-B90E-862B376E1719}|DocumentManagementlibrary\\DocumentManagementlibrary.csproj|c:\\users\\art oliver estacio\\documents\\lois file\\document_management\\documentmanagementapi\\documentmanagementlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3780F3EC-FDA7-4271-B90E-862B376E1719}|DocumentManagementlibrary\\DocumentManagementlibrary.csproj|solutionrelative:documentmanagementlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementApi\\Program.cs",
+              "RelativeToolTip": "DocumentManagementApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:56:57.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddDocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementApi\\Controllers\\AddDocumentController.cs",
+              "RelativeDocumentMoniker": "DocumentManagementApi\\Controllers\\AddDocumentController.cs",
+              "ToolTip": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementApi\\Controllers\\AddDocumentController.cs",
+              "RelativeToolTip": "DocumentManagementApi\\Controllers\\AddDocumentController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwFcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:05:16.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddDocumentServices.cs",
+              "DocumentMoniker": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementlibrary\\Services\\AddDocumentServices.cs",
+              "RelativeDocumentMoniker": "DocumentManagementlibrary\\Services\\AddDocumentServices.cs",
+              "ToolTip": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementlibrary\\Services\\AddDocumentServices.cs",
+              "RelativeToolTip": "DocumentManagementlibrary\\Services\\AddDocumentServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:00:07.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementlibrary\\DocumentRepository\\AddDocumentRepository.cs",
+              "RelativeDocumentMoniker": "DocumentManagementlibrary\\DocumentRepository\\AddDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementlibrary\\DocumentRepository\\AddDocumentRepository.cs",
+              "RelativeToolTip": "DocumentManagementlibrary\\DocumentRepository\\AddDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T07:36:04.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementlibrary\\RequestModel\\DocumentRequestModel.cs",
+              "RelativeDocumentMoniker": "DocumentManagementlibrary\\RequestModel\\DocumentRequestModel.cs",
+              "ToolTip": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementlibrary\\RequestModel\\DocumentRequestModel.cs",
+              "RelativeToolTip": "DocumentManagementlibrary\\RequestModel\\DocumentRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T08:19:26.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementlibrary\\Models\\DocumentModel.cs",
+              "RelativeDocumentMoniker": "DocumentManagementlibrary\\Models\\DocumentModel.cs",
+              "ToolTip": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementlibrary\\Models\\DocumentModel.cs",
+              "RelativeToolTip": "DocumentManagementlibrary\\Models\\DocumentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T07:33:16.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementlibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "DocumentManagementlibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\Art Oliver Estacio\\Documents\\lois file\\Document_Management\\DocumentManagementApi\\DocumentManagementlibrary\\Class1.cs",
+              "RelativeToolTip": "DocumentManagementlibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T07:32:00.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
